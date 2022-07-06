@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andikkurniawan28
+- 👋 Hi, I’m Andik Kurniawan
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on Web Development Project
