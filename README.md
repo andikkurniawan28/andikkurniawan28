@@ -1,10 +1,29 @@
-- 👋 Hi, I’m Andik Kurniawan
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on Web Development Project
-- 📫 How to reach me +6285733465399
+# Hi, I'm Andik 👋
 
-<!---
-andikkurniawan28/andikkurniawan28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Industrial Automation | Software Integration | System Development**
+
+I work at the intersection of industrial processes, automation, and software development.
+
+My focus is building practical systems that connect industrial equipment, operational data, and business processes.
+
+### Areas of Interest
+- Industrial Automation & SCADA
+- PLC and HMI Integration
+- Web-Based Information Systems
+- Database Design & Data Management
+- Industrial Process Digitization
+- ERP & Business Process Integration
+
+### Technology Stack
+- **Languages:** PHP, JavaScript, SQL
+- **Backend:** Native PHP, Laravel
+- **Database:** MySQL
+- **Industrial:** PLC, HMI, SCADA
+- **Tools:** Git, GitHub, Excel
+
+### Current Focus
+Developing practical software solutions for industrial operations, production monitoring, quality control, and data integration.
+
+---
+
+*Turning industrial processes into connected information systems.*
