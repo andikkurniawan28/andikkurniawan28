@@ -1,29 +1,29 @@
-# Hi, I'm Andik 👋
+# Halo, saya Andik 👋
 
-**Industrial Automation | Software Integration | System Development**
+**Otomasi Industri | Integrasi Perangkat Lunak | Pengembangan Sistem**
 
-I work at the intersection of industrial processes, automation, and software development.
+Saya bekerja di persimpangan antara proses industri, otomasi, dan pengembangan perangkat lunak.
 
-My focus is building practical systems that connect industrial equipment, operational data, and business processes.
+Fokus saya adalah membangun sistem praktis yang menghubungkan peralatan industri, data operasional, dan proses bisnis.
 
-### Areas of Interest
-- Industrial Automation & SCADA
-- PLC and HMI Integration
-- Web-Based Information Systems
-- Database Design & Data Management
-- Industrial Process Digitization
-- ERP & Business Process Integration
+### Bidang Minat
+- Otomasi Industri & SCADA
+- Integrasi PLC dan HMI
+- Pengembangan Sistem Informasi Berbasis Web
+- Perancangan Database & Pengelolaan Data
+- Digitalisasi Proses Industri
+- ERP & Integrasi Proses Bisnis
 
-### Technology Stack
-- **Languages:** PHP, JavaScript, SQL
+### Teknologi
+- **Bahasa Pemrograman:** PHP, JavaScript, SQL
 - **Backend:** Native PHP, Laravel
 - **Database:** MySQL
-- **Industrial:** PLC, HMI, SCADA
+- **Industri:** PLC, HMI, SCADA
 - **Tools:** Git, GitHub, Excel
 
-### Current Focus
-Developing practical software solutions for industrial operations, production monitoring, quality control, and data integration.
+### Fokus Saat Ini
+Mengembangkan solusi perangkat lunak untuk operasional industri, pemantauan produksi, pengendalian kualitas, dan integrasi data.
 
 ---
 
-*Turning industrial processes into connected information systems.*
+*Menghubungkan proses industri menjadi sistem informasi yang terintegrasi.*
